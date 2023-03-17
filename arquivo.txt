@@ -1,0 +1,23 @@
+8
+1;ana;rua pera;992389147
+2;pedro;rua morango;78747587
+3;vinicius;rua carambola;7854785
+4;marconi;rua banana n2;87475785
+5;Kleber;Rua Banana;99457845
+6;Ana flavia D.;avenida eldorado;9923868
+7;kauan;eldorado;5375815
+8;rodrigo;rua joaquin;9923242
+5
+1;derick;87587458
+2;lucas;992389108
+3;barbara;8758287
+4;Ana Flavia;57486147
+5;ROberot;4587457
+7
+1;2;15;1;1
+2;2;10;1;2
+3;3;12;2;2
+4;5;13;4;5
+5;5;17;4;4
+6;4;20;4;2
+7;5;17;2;6
